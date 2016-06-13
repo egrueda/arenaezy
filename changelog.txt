@@ -1,0 +1,20 @@
+===== Stable versions =======
+[B]v1.0.4 (13/06/2016)[/B]
+ - Mostrar agenda completa
+ - Pantalla de ajustes
+ - Posibilidad elegir servidor (ToDo)
+ - Iconos para categorias
+
+[B]v1.0.3 (25/05/2016)[/B]
+ - First public release
+
+ ===== Development versions =======
+[B]v1.0.2 (10/05/2016)[/B]
+ - Minor fixes
+
+[B]v1.0.1 (09/05/2016)[/B]
+ - Use public (live) URL
+
+[B]v1.0 (06/05/2016)[/B]
+ - First release
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="Elegir origen">
+		<setting id="av_source_server" label="Servidor origen (próximamente)" type="enum" values="Principal" />
+	</category>
+</settings>
